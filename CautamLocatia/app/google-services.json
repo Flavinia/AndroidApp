@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "153198375961",
+    "firebase_url": "https://cautamlocatia.firebaseio.com",
+    "project_id": "cautamlocatia",
+    "storage_bucket": "cautamlocatia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153198375961:android:a8bc5fdc5debc3a4",
+        "android_client_info": {
+          "package_name": "com.example.flavianagavril.cautamlocatia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153198375961-a8c3obgf61aap8u65jeb4ac8e40mv7es.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flavianagavril.cautamlocatia",
+            "certificate_hash": "85b4cd1299200349a98d9148a8e38af84dee60a4"
+          }
+        },
+        {
+          "client_id": "153198375961-hqaqbiu6adjshfcr2gieettkns2k14o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE_jmubSstHxNmfVmfVIQWrD-vgPhRoVs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153198375961-hqaqbiu6adjshfcr2gieettkns2k14o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
